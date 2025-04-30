@@ -143,3 +143,37 @@ Ensure Tkinter is installed before running the games.
 - Include difficulty options (easy, medium, hard).
 - Add a "Hint" button for user assistance.
 - Improve aesthetics with modern UI themes.
+
+
+
+// Test 
+1. Installation of Kaggle API:
+   The notebook begins by installing the Kaggle API library.
+
+2. Kaggle Authentication:
+   - Uses Google Colab's file upload feature to securely upload the kaggle.json file.
+   - This step is crucial for authenticating with the Kaggle API to access datasets.
+
+### Project Structure
+
+The notebook is structured with markdown cells for explanations and code cells for execution. It includes:
+
+1. Installation of required libraries
+2. Authentication setup for Kaggle API
+3. (Implied) Data loading and preprocessing steps
+4. (Implied) Model building and training
+5. (Implied) Evaluation and analysis of results
+
+### Key Components
+
+- Kaggle API integration for dataset access
+- Likely uses natural language processing techniques for sentiment analysis
+- Presumably works with IMDb movie review data
+
+### Note
+
+The provided snippet only shows the initial setup. The complete notebook likely includes additional cells for data processing, model creation, training, and evaluation, which are not visible in the given excerpt.
+
+### Usage
+
+This notebook is designed to be run in a Jupyter environment, preferably Google Colab, due to the use of Colab-specific file upload functionality.
